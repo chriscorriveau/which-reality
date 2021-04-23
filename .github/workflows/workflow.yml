@@ -31,4 +31,4 @@ jobs:
       uses: zaproxy/action-baseline@v0.3.0
       with:
         # Target URL of PHP container
-        target: http://54.237.12.119
+        target: http://34.229.67.186
